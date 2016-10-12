@@ -1,5 +1,5 @@
 # Beta-Climbr
-https://beta-climbr.firebaseapp.com/
+##https://beta-climbr.firebaseapp.com/
 
 Beta... beta is climbing jargon that designates information about a climb. In rock climbing this may include information about a climb's difficulty, crux, style, length, quality of rock, ease to protect, required equipment, and specific information about hand or foot holds.
 
@@ -10,18 +10,18 @@ Built using Unity3D Engine with C# Scripting; this game has 17 different C# scri
 The objective of the game is developed as a "High Score" type of game where the player looks to avoid obstacles, collect powerups, and ultimately avoid falling to their demise.
 
 GAMEPLAY INSTRUCTIONS:
--Use the arrow keys to navigate
--Avoid the falling rocks
--Grab rope, ice axes, and cliff bars for point powerups
--Avoid the bottom of screen
--Avoid the side of the screens
+- Use the arrow keys to navigate
+- Avoid the falling rocks
+- Grab rope, ice axes, and cliff bars for point powerups
+- Avoid the bottom of screen
+- Avoid the side of the screens
 
 "Mountains are not fair or unfair, they are just dangerous." - Reinhold Messner, Italian mountaineer, adventurer, explorer.
 
 Music By:
 
--Menu: "Rocky Mountain High", John Denver
--Gameplay: "Misty Mountain Hop", Led Zeppelin
--Game Over: "Fire on the Mountain", The Grateful Dead
--Settings: "Here's to Now", Ugly Casanova
--Credits: "Gin and Juice", The Gourds
+- Menu: "Rocky Mountain High", John Denver
+- Gameplay: "Misty Mountain Hop", Led Zeppelin
+- Game Over: "Fire on the Mountain", The Grateful Dead
+- Settings: "Here's to Now", Ugly Casanova
+- Credits: "Gin and Juice", The Gourds
